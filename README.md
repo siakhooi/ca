@@ -9,3 +9,7 @@ Siak Hooi Certificate Authority
 - [SiakHooi-Root-CA-2023.chain-bundle.pem](docs/SiakHooi-Root-CA-2023.chain-bundle.pem)
 - [SiakHooi-Root-CA-2023.crl](docs/SiakHooi-Root-CA-2023.crl)
 - [SiakHooi-Intermediate-CA-2023.crl](docs/SiakHooi-Intermediate-CA-2023.crl)
+
+## Applications that use the certificates
+
+- [G5 Java Application Framework](https://siakhooi.github.io/java-g5-framework/)
